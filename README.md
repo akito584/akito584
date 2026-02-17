@@ -34,6 +34,7 @@
 - **Key Features**: 独自のコンテキストエンジニアリングによる精度向上、Embeddingを用いた関連情報の抽出。
 - **Point**: 単なるAPI呼び出しに留まらず、AI時代のソフトウェア設計（AI-driven development）を意識した実装。
 - URL https://frontend-menter.vercel.app/
+- Repository https://github.com/akito584/New_year_menter
 
 ### 📚 本の貸し借りサービス (Book Sharing Platform)
 - **Description**: ユーザー間での本のシェアを可能にするWebアプリケーション。
