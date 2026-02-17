@@ -1,4 +1,4 @@
-# Hi there, I'm Akine 👋
+# Hi there, I'm Akito👋
 
 ### 🎓 Economics student at Kobe Univ. | Software Engineer & Data Science Enthusiast
 経済学のバックグラウンドを持ちながら、ソフトウェア工学とデータサイエンスの境界を探求しています。
@@ -30,13 +30,17 @@
 
 ### 📚 本の貸し借りサービス (Book Sharing Platform)
 - **Description**: ユーザー間での本のシェアを可能にするWebアプリケーション。
-- **Tech Stack**: React, RESTful API, (ここにバックエンドの技術)
+- **Tech Stack**:  RESTful API, Python(FastAPI),Next.js
 - **Point**: MVCモデルとSOLID原則を意識した設計。ユーザー体験と保守性の両立を目指しました。
+- Slackなどの起業部内で用いているツールと連携したWebサービスを構築。貸出期限が切れれば、SlackのDMにて返却を促すメールが届く機能や、貸出、返却の情報をSlackで完結させ部員にとって負担のないサービスとした。
+- URL（Admin）namahagerepository-production.up.railway.app
+- URL（Repository）https://github.com/akito584/namahage_repository
 
 ### 📊 Data Analysis Portfolio
 - **Description**: GCIでの最終課題を含む、データ分析のプロジェクト集。
 - **Key Focus**: 統計学的なアプローチを用いたビジネスデータの解析。
 - **Status**: [GCI 2025 Winter] 最終課題提出・結果待機中。
+- URL(Repository) https://github.com/akito584/data_analysis_competiton
 
 ---
 
