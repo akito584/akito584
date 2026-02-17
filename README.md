@@ -28,12 +28,19 @@
 
 ## 📂 Featured Projects
 
+### 🤖 AI Chatbot Service
+- **Description**: LLMを活用した高度なコンテキスト理解を持つチャットボットサービス。
+- **Tech Stack**: Python, OpenAI API, Embedding, (ここにフロントエンド等の技術)
+- **Key Features**: 独自のコンテキストエンジニアリングによる精度向上、Embeddingを用いた関連情報の抽出。
+- **Point**: 単なるAPI呼び出しに留まらず、AI時代のソフトウェア設計（AI-driven development）を意識した実装。
+- URL https://frontend-menter.vercel.app/
+
 ### 📚 本の貸し借りサービス (Book Sharing Platform)
 - **Description**: ユーザー間での本のシェアを可能にするWebアプリケーション。
 - **Tech Stack**:  RESTful API, Python(FastAPI),Next.js
 - **Point**: MVCモデルとSOLID原則を意識した設計。ユーザー体験と保守性の両立を目指しました。
 - Slackなどの起業部内で用いているツールと連携したWebサービスを構築。貸出期限が切れれば、SlackのDMにて返却を促すメールが届く機能や、貸出、返却の情報をSlackで完結させ部員にとって負担のないサービスとした。
-- URL（Admin）namahagerepository-production.up.railway.app
+- URL（Admin）namahagerepository-production.up.railway.app（現在サービス停止中）
 - URL（Repository）https://github.com/akito584/namahage_repository
 
 ### 📊 Data Analysis Portfolio
